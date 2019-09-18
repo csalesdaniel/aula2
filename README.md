@@ -1,2 +1,5 @@
 # aula2
-teste de uso na aula
+
+Este é um projeto... PHp.
+
+Deverá ter testes de funcionalidade
